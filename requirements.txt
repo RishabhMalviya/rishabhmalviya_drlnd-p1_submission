@@ -1,0 +1,5 @@
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch===1.7.1+cu110
+torchvision===0.8.2+cu110
+matplotlib==3.3.3
+jupyter==1.0.0
